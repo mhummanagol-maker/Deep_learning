@@ -1,0 +1,122 @@
+Deep Learning concepts you must master to be considered advanced / senior-level in AI, ML, or GenAI roles.
+These are framework-independent fundamentals—if you know these, tools don’t matter.
+
+🔥 Top Deep Learning Concepts (Advanced Level)
+
+1️⃣ Mathematical Foundations (Non-Negotiable)
+Linear algebra (vectors, matrices, eigenvalues)
+Matrix multiplication intuition
+Vectorized computation
+Calculus for DL (chain rule, partial derivatives)
+Jacobians & gradients
+Optimization geometry
+👉 Advanced DL = math intuition + code
+
+2️⃣ Neural Network Fundamentals
+Perceptron & multilayer networks
+Universal approximation theorem (intuition)
+Forward & backward pass
+Backpropagation (from scratch understanding)
+Computational graphs
+Automatic differentiation
+
+3️⃣ Loss Functions & Optimization
+Regression losses (MSE, MAE, Huber)
+Classification losses (Cross-Entropy, Focal loss)
+Contrastive & triplet losses
+Custom loss design
+Optimizers: SGD, Momentum, Adam, AdamW
+Learning rate schedules
+Gradient clipping
+Second-order optimization (conceptual)
+
+4️⃣ Training Stability & Regularization
+Vanishing & exploding gradients
+Weight initialization (Xavier, He)
+BatchNorm, LayerNorm, GroupNorm
+Dropout
+Data augmentation
+Label smoothing
+Early stopping
+Overfitting diagnostics
+
+5️⃣ Deep Architectures (Must-Know)
+🔹 Fully Connected Networks
+Depth vs width tradeoffs
+Skip connections
+🔹 Convolutional Neural Networks (CNNs)
+Convolution operation intuition
+Receptive fields
+Pooling vs strided convolutions
+Modern CNNs (ResNet, EfficientNet)
+🔹 Sequence Models
+RNNs, LSTM, GRU
+Sequence-to-sequence models
+Attention mechanisms
+🔹 Transformers (Core DL Skill)
+Self-attention
+Multi-head attention
+Positional encodings
+Encoder vs decoder models
+
+6️⃣ Representation Learning
+Feature hierarchies
+Embeddings (text, image, graph)
+Latent space structure
+Metric learning
+Manifold learning intuition
+👉 Deep learning = learning representations, not rules
+
+7️⃣ Transfer Learning & Fine-Tuning
+Pretraining vs fine-tuning
+Freezing vs unfreezing layers
+Catastrophic forgetting
+Domain adaptation
+Few-shot learning
+Zero-shot learning
+
+8️⃣ Advanced Training Paradigms
+Self-supervised learning
+Contrastive learning (SimCLR, MoCo)
+Multi-task learning
+Curriculum learning
+Weak supervision
+Semi-supervised learning
+
+9️⃣ Uncertainty & Robustness
+Aleatoric vs epistemic uncertainty
+Bayesian neural networks
+Monte Carlo dropout
+Ensemble methods
+Adversarial examples
+Robust training methods
+
+🔟 Evaluation & Debugging
+Learning curves interpretation
+Error analysis by data slices
+Calibration of predictions
+Gradient checking
+Overfitting vs underfitting diagnosis
+Dataset bias detection
+
+1️⃣1️⃣ Scaling & Performance
+GPU vs CPU computation
+Memory optimization
+Mixed precision training
+Distributed training basics
+Data vs model parallelism
+Batch size tradeoffs
+
+1️⃣2️⃣ Generative Deep Learning
+Autoencoders & VAEs
+GANs (training instability)
+Diffusion models (noise scheduling)
+Autoregressive models
+Likelihood vs sample quality
+
+1️⃣3️⃣ Ethics & Responsible DL
+Bias amplification
+Model interpretability
+Fairness metrics
+Dataset governance
+Safety considerations
